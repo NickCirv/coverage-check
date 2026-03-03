@@ -1,0 +1,36 @@
+{
+  "name": "coverage-check",
+  "version": "1.0.0",
+  "description": "Enforce test coverage thresholds from existing reports. lcov, Istanbul, Clover. Zero deps.",
+  "type": "module",
+  "bin": {
+    "coverage-check": "./index.js",
+    "covcheck": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "coverage",
+    "testing",
+    "ci",
+    "lcov"
+  ],
+  "license": "MIT",
+  "author": "NickCirv",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/coverage-check.git"
+  },
+  "homepage": "https://github.com/NickCirv/coverage-check#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/coverage-check/issues"
+  },
+  "files": [
+    "index.js"
+  ]
+}
