@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # coverage-check
 
 > Enforce coverage thresholds from existing reports. Zero dependencies.
